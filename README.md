@@ -38,3 +38,6 @@
 </ul>
 
 <h3>Snippets:</h3> 
+<img src="homepage.png "height="300" width="500">
+<img src="donation.png"height="300" width="500">
+<img src="User registration.png"height="300" width="500">
