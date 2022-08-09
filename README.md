@@ -1,28 +1,31 @@
-# DMedPlus<h2>DMedPlus- Medicine Donation Website</h2>
-<hr>
+<h2>DMedPlus- Medicine Donation Website</h2>
+<br>
 <p>
-    DMedPlus is an online medicine donation portal that facilitates users can donate their extra unused medicines which
-    will be collected by NGOs and donated to people who don’t have the financial resources to afford these medicines.
+    DMedPlus resembles a virtual exchange center that facilitates users to donate
+    their unused medicines. One can either register as a donator or an NGO.
+    Donators can choose an NGO of their choice or will be assigned a random one based 
+    on their location. NGO will follow up post verification of medicines.
 </p>
 
-<b>Features:</b>
+<h3>Features:</h3>
 <ul>
-    <li>Medicine Donation</li>
+    <li>Donating Medicine</li>
     <li>Receiving Medicine</li>
     <li>NGO Registration</li>
 </ul>
 
-<b>Getting Started/Installation:</b>
+<h3>Installation:</h3>
 <ol>
     <li>Clone the repository. </li>
     <li>Install the XAMPP server in your system </li>
-    <li>Open the control panel of XAMPP and start Apache and MYSQL </li>
-    <li>Paste this link in any browser to reach website’s homepage:<br>
-        <a>localhost/dmedplus/index.html</a>
+    <li>Launch the control panel of <a href="https://www.apachefriends.org/">XAMPP</a>
+        and start <a href="https://www.apache.org/">Apache</a> and <a href="https://www.mysql.com/">MySQL</a> </li>
+    <li>Paste this link in any browser to reach the website’s homepage:<br>
+        <a href="localhost/dmedplus/index.html">localhost/dmedplus/index.html</a>
     </li>
 </ol>
 
-<b>Tech Used:</b>
+<h3>Tech Used:</h3>
 <ul>
     <b>Frontend:</b>
     <li><a href="https://html.spec.whatwg.org/multipage/">HTML</a></li>
@@ -34,4 +37,4 @@
     <li><a href="https://www.mysql.com/">MySQL</a></li>
 </ul>
 
-<b>Snippets:</b> 
+<h3>Snippets:</h3> 
